@@ -1,0 +1,40 @@
+#container{
+    background-color: lightgray;
+    width: 900px;
+    display: inline-block;
+}
+
+img{
+    height: 200px;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#row1{
+    margin: 20px;
+    background-color: seagreen; 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#row2  {
+    margin: 20px;
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#row3{
+    margin: 20px;
+    background-color: steelblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+footer{
+    text-align: center;
+    margin-bottom: 5px;
+}
